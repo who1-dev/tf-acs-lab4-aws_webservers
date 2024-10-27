@@ -1,0 +1,5 @@
+# Ignore the .git directory (although normally, you wouldn't need to do this)
+.git/
+
+# Ignore the .terraform directory
+.terraform/
